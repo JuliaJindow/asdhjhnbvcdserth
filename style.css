@@ -1,0 +1,9 @@
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#result {
+    color: darksalmon;
+    border: 5px solid hotpink;
+}
